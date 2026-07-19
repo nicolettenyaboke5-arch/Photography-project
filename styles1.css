@@ -140,7 +140,7 @@ header.nav-strip p em {
     margin-bottom: 8px;
 }
 
-/* Cleans up floating tracking rules so card layout structures don't break */
+/* restricts breaking of card*/
 .photo-list > li::after {
     content: "";
     display: table;
@@ -198,12 +198,12 @@ header.nav-strip p em {
 
 /* Pseudo-class button hover selection trigger condition */
 .submit-button:hover {
-    background-color: #e3b5a4; /* Shifts colors on user hover pointer mouse gaze */
+    background-color: #e3b5a4; 
 }
 
-/*6. SITE FOOTER BUBBLE (Review Link & Copyright 2026)*/
+/*(Review Link & Copyright 2026)*/
 .site-footer {
-    background-color: #ffffff; /* Independent white footer bubble card */
+    background-color: #ffffff; 
     text-align: center;
     padding: 20px;
     border-radius: 20px;
