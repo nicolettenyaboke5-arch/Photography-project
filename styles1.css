@@ -118,3 +118,24 @@ header.nav-strip p em {
     display: block;
     margin-bottom: 12px;
 }
+
+.image-pair p {
+    font-size: 15px;
+    line-height: 1.5;
+    color: #5c4d4d;
+    margin-bottom: 16px; 
+}
+
+/*same look for everything*/
+.photo-list li img, .image-pair img {
+    width: 48%; 
+    height: 185px; 
+    object-fit: cover; 
+    background-color: #fcfbf7; 
+    padding: 10px; 
+    border: 3px solid #4a121a; 
+    border-radius: 16px; 
+    float: left; 
+    margin-right: 2%; 
+    margin-bottom: 8px;
+}
