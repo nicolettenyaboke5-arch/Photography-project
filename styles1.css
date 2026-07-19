@@ -38,3 +38,25 @@ header.nav-strip p em {
     font-style: italic; 
     color: #e3b5a4; 
 }
+
+/*gallery*/
+.biography {
+    background-color: #ffffff; 
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    width: 65%; 
+    display: block; 
+    overflow: hidden; 
+}
+
+/*pictures horizontal*/
+.picture-row img {
+    width: 65px; 
+    height: 65px; 
+    border-radius: 50%; 
+    border: 2px solid #4a121a; 
+    float: left; 
+    margin-right: 12px; 
+    object-fit: cover; 
+}
