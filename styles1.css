@@ -97,3 +97,24 @@ header.nav-strip p em {
     color: #5c4d4d;
     margin-bottom: 20px;
 }
+
+.photo-list {
+    list-style-type: none; 
+}
+
+/* frames for pictures*/
+.photo-list > li {
+    background-color: #ffffff; 
+    padding: 24px;
+    border-radius: 24px;
+    margin-bottom: 28px; 
+    display: block; 
+    overflow: hidden; 
+}
+
+.photo-list strong {
+    font-size: 18px;
+    color: #4a121a;
+    display: block;
+    margin-bottom: 12px;
+}
