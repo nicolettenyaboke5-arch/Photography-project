@@ -80,3 +80,20 @@ header.nav-strip p em {
     font-weight: bold;
     text-decoration: underline;
 }
+
+/*separate bubbles*/
+.gallery {
+    padding: 0;
+}
+
+.gallery h2 {
+    font-size: 24px;
+    color: #4a121a;
+    margin-bottom: 5px;
+}
+
+.section-intro {
+    font-size: 15px;
+    color: #5c4d4d;
+    margin-bottom: 20px;
+}
