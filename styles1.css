@@ -60,3 +60,23 @@ header.nav-strip p em {
     margin-right: 12px; 
     object-fit: cover; 
 }
+
+.bio-text h2 {
+    font-size: 22px;
+    color: #4a121a;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    clear: both; 
+}
+
+.bio-text p {
+    font-size: 15px;
+    line-height: 1.5;
+    color: #5c4d4d;
+}
+
+.bio-text a {
+    color: #4a121a;
+    font-weight: bold;
+    text-decoration: underline;
+}
