@@ -13,6 +13,6 @@ Copyright and license
 # CSS
 Visually appealing,
 Font size,
-Colors,
+Colors,( maroon, white, beige, cream, brown)
 Box model,
 Interactive states, navigation actions and hovering changing visual 
