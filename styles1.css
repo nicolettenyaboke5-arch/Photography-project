@@ -163,3 +163,66 @@ header.nav-strip p em {
     color: #f7ede2;
     margin-bottom: 15px;
 }
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 14px;
+    color: #e3b5a4;
+    margin-bottom: 5px;
+}
+
+.form-group input, .form-group textarea {
+    width: 100%;
+    padding: 12px;
+    background-color: #5c1b24; 
+    border: 1px solid #7a2b36;
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.submit-button {
+    background-color: #ffffff;
+    color: #4a121a;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+/* Pseudo-class button hover selection trigger condition */
+.submit-button:hover {
+    background-color: #e3b5a4; /* Shifts colors on user hover pointer mouse gaze */
+}
+
+/*6. SITE FOOTER BUBBLE (Review Link & Copyright 2026)*/
+.site-footer {
+    background-color: #ffffff; /* Independent white footer bubble card */
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+}
+
+.review-link {
+    color: #4a121a;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 15px;
+}
+
+.review-link:hover {
+    color: #e3b5a4;
+}
+
+.copyright-text {
+    font-size: 13px;
+    color: #7a6e67;
+    margin-top: 8px;
+}
