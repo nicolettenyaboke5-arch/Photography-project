@@ -139,3 +139,27 @@ header.nav-strip p em {
     margin-right: 2%; 
     margin-bottom: 8px;
 }
+
+/* Cleans up floating tracking rules so card layout structures don't break */
+.photo-list > li::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/*contact*/
+.form {
+    background-color: #4a121a; 
+    color: #f7ede2;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    display: block;
+    overflow: hidden;
+}
+
+.form h2 {
+    font-size: 22px;
+    color: #f7ede2;
+    margin-bottom: 15px;
+}
