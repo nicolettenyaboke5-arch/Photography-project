@@ -1,18 +1,2 @@
-#Photography Portfolio
-## HTML layout
-Structure:
-**Header Section**
-Has a title
-**Biography**
-**Photo gallery**
-Showcasing different Basilicas
-Favourite pictures, ordered list 
-**Contact**
-Labels, buttons, text
-Copyright and license
-# CSS
-Visually appealing,
-Font size,
-Colors,( maroon, white, beige, cream, brown)
-Box model,
-Interactive states, navigation actions and hovering changing visual 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb8a8daa-d7c6-4baf-afd1-396636ce447b" />
+
