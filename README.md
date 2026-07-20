@@ -21,4 +21,4 @@ cd Photography-project
 ## copyright and license
 Copyright 2026 The History of the Basilica by Nicolette Nyaboke. All Rights Reserved.
 This project is open-source and licensed under the standard **MIT License**. You are free to modify and expand upon this layout template for educational portfolios.
-http://127.0.0.1:5500/Nicolette/photography-portfolio/index.html
+
