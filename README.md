@@ -12,6 +12,8 @@ Designed and documented prior to core building phases via a dedicated [design.md
 ### Clone repository
 Open your terminal and type the command
 git clone https://github.com 
+## Live website
+
 ### Move inside the directory folder
 cd Photography-project
 ### Launch the webpage
